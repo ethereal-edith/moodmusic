@@ -35,6 +35,7 @@ npm run dev
 ```
 ### alternatively the link on gh-pages
 
+https://ethereal-edith.github.io/moodmusic/
 
 ---
 💡 Recommended mood for setup: “grunge coding tunnel” 🎧 — play some Nirvana while it installs

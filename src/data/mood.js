@@ -14,7 +14,7 @@ const moods = {
         allowfullscreen>
       </iframe>
     `,
-    bgColor: "#ba99f7",
+    bgColor: "#ff4d8d",
   },
   nostalgic: {
     emoji: "📼 (nolstagic)",
@@ -30,7 +30,7 @@ const moods = {
      allowfullscreen>
      </iframe>
     `, 
-    bgColor: "#f3eac2",
+    bgColor: "#7e57c2",
   },
   rage: {
     emoji: "💥 (rage)",
@@ -44,7 +44,7 @@ const moods = {
      referrerpolicy="strict-origin-when-cross-origin" 
      allowfullscreen>
     </iframe>`,
-    bgColor: "#d1b3c4",
+    bgColor: "#ff1744",
   },
   dramatic: {
     emoji: "🎭 (dramatic)",
@@ -59,7 +59,7 @@ const moods = {
     allowfullscreen>
    </iframe>
     `,
-    bgColor: "#e3c1f7",
+    bgColor: "#d500f9",
   },
   rebellious: {
     emoji: "🔥 (rebellious)",
@@ -74,7 +74,7 @@ const moods = {
      allowfullscreen>
     </iframe>
     `,
-    bgColor: "#fbdada",
+    bgColor: "#ff9100",
   },
   softgirl: {
     emoji: "🍓 (softgirl)",
@@ -89,7 +89,7 @@ const moods = {
     allowfullscreen>
     </iframe>
     `,
-    bgColor: "#ffe1f0",
+    bgColor: "#ff4081",
   },
   vibing: {
     emoji: "🛼 (vibing)",
@@ -105,7 +105,7 @@ const moods = {
      allowfullscreen>
     </iframe>
     `,
-    bgColor: "#d2f6c5",
+    bgColor: "#00e676",
   },
   lonely: {
     emoji: "🌙 (lonely)",
@@ -120,7 +120,7 @@ const moods = {
      allowfullscreen>
     </iframe>
     `,
-    bgColor: "#b8c2ff",
+    bgColor: "#2962ff",
   },
   romantic: {
     emoji: "💘 (romantic)",
@@ -136,7 +136,7 @@ const moods = {
      allowfullscreen>
      </iframe>
     `,
-    bgColor: "#ffc2d1",
+    bgColor: "#ff3d00",
   },
   chaotic: {
     emoji: "🌀 (chaotic)",
@@ -152,7 +152,7 @@ const moods = {
      allowfullscreen>
      </iframe>
     `,
-    bgColor: "#fbeec1",
+    bgColor: "#ffea00",
   },
   burntout: {
     emoji: "🥲 (burntout)",
@@ -168,7 +168,7 @@ const moods = {
      allowfullscreen>
      </iframe>
     `,
-    bgColor: "#d5f4e6",
+    bgColor: "#8d6e63",
   },
   euphoria: {
     emoji: "🕊️ (euphoria)",
@@ -184,7 +184,7 @@ const moods = {
      allowfullscreen>
      </iframe>
     `,
-    bgColor: "#e0f7fa",
+    bgColor: "#00b0ff",
   }
 };
 

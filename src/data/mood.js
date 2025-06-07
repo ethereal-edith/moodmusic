@@ -1,7 +1,22 @@
 const moods = {
   heartbroken: {
     emoji: "💔 (hearbroken)",
-    quote: "i know you need to cry 🫂 you'll be okay ",
+    quote: "They were all you wanted ",
+    embedCode: `
+    <iframe width="560"
+     height="315" src="https://www.youtube.com/embed/W7nmB20qJv4?si=1PTuGb8UXfg5fafn"
+     title="YouTube video player" 
+     frameborder="0" 
+     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+     referrerpolicy="strict-origin-when-cross-origin" 
+     allowfullscreen>
+    </iframe>
+    `,
+    bgColor: "#ff4d8d",
+  },
+    yearning: {
+    emoji: " 😞🫶(yearning)",
+    quote: "The kinda love you want isnt here",
     embedCode: `
       <iframe 
         width="560" 
@@ -171,7 +186,7 @@ const moods = {
     bgColor: "#8d6e63",
   },
   euphoria: {
-    emoji: "🕊️ (euphoria)",
+    emoji: " 😝 (euphoria)",
     quote: "You hear that, its the endorphins",
     embedCode:`
     <iframe width="560" 
@@ -185,7 +200,52 @@ const moods = {
      </iframe>
     `,
     bgColor: "#00b0ff",
-  }
+  },
+   lovestuck: {
+    emoji: " 💌 (lovestruck)",
+    quote: "And After all this time im still into you",
+    embedCode:`
+    <iframe width="560" height="315" 
+     src="https://www.youtube.com/embed/Q_fmW9RPCqM?si=61baMdG-ddcONuHz" 
+     title="YouTube video player" 
+     frameborder="0" 
+     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+     referrerpolicy="strict-origin-when-cross-origin" 
+     allowfullscreen>
+    </iframe>
+    `,
+    bgColor: "#ff0033",
+  },
+   hardtimes: {
+    emoji: " 🤟 (hardtimes)",
+    quote: "Gonna make you wonder why you even try",
+    embedCode:`
+    <iframe width="560" 
+     height="315" 
+     src="https://www.youtube.com/embed/RfTFCs_ROXw?si=ZpYdjOVbD-RqTHCT" 
+     title="YouTube video player" 
+     frameborder="0" 
+     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+     referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
+    </iframe>
+    `,
+    bgColor: "#ff00aa",
+  },
+   surving: {
+    emoji: " 😓(surviving)",
+    quote: "aint it fun living in the real world?",
+    embedCode:`
+    <iframe width="560" 
+     height="315" 
+     src="https://www.youtube.com/embed/qgp9VPF0eGw?si=TPI5MxpjPOSCwZcw" 
+     title="YouTube video player" 
+     frameborder="0" 
+     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+     referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
+    </iframe>
+    `,
+    bgColor: "#2d0320",
+  },
 };
 
 export default moods;
